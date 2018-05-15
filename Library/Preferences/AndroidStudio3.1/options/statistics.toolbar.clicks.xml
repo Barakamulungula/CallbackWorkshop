@@ -1,0 +1,28 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="7" />
+      <entry action="AndroidConnectDebuggerAction@NavBarToolbar" count="3" />
+      <entry action="ChangesView.Refresh@ChangesBrowser" count="11" />
+      <entry action="Debug@NavBarToolbar" count="1" />
+      <entry action="MakeGradleProject@NavBarToolbar" count="40" />
+      <entry action="Run@NavBarToolbar" count="593" />
+      <entry action="Stop@NavBarToolbar" count="9" />
+      <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="2" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction@TOOL_WINDOW_TOOLBAR" count="4" />
+      <entry action="com.android.tools.idea.common.actions.IssueNotificationAction@NlRhsConfigToolbar" count="1" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="19" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.configurations.OrientationMenuAction@toolbar" count="3" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="53" />
+      <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ViewActionToolbarMenuWrapper@toolbar" count="3" />
+      <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="1" />
+      <entry action="com.android.tools.idea.uibuilder.property.ViewAllPropertiesAction@TOOL_WINDOW_TOOLBAR" count="10" />
+      <entry action="com.android.tools.idea.uibuilder.property.editors.BrowsePanel$BrowseAction@unknown" count="3" />
+      <entry action="com.intellij.build.AbstractViewManager$CloseBuildContentAction@BuildView" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+</application>

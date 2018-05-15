@@ -1,0 +1,28 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Analyze -&gt; Code Cleanup..." count="1" />
+      <entry path="Build -&gt; Build APK(s)" count="1" />
+      <entry path="Build -&gt; Clean Project" count="5" />
+      <entry path="Build -&gt; Make Project" count="1" />
+      <entry path="Code -&gt; Optimize Imports" count="26" />
+      <entry path="Code -&gt; Rearrange Code" count="62" />
+      <entry path="Code -&gt; Reformat Code" count="76" />
+      <entry path="Code -&gt; Unwrap/Remove..." count="1" />
+      <entry path="File -&gt; Close Project" count="35" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="24" />
+      <entry path="File -&gt; Project Structure..." count="5" />
+      <entry path="Run -&gt; Debug..." count="1" />
+      <entry path="Tools -&gt; AVD Manager" count="1" />
+      <entry path="Tools -&gt; SDK Manager" count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="1" />
+      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="5" />
+      <entry path="VCS -&gt; Local History -&gt; Show History" count="4" />
+    </counts>
+  </component>
+</application>

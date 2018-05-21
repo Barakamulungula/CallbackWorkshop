@@ -3,17 +3,17 @@
     <counts>
       <entry action="$Copy" count="27" />
       <entry action="$Cut" count="5" />
-      <entry action="$Delete" count="6" />
+      <entry action="$Delete" count="8" />
       <entry action="$Paste" count="52" />
-      <entry action="$Redo" count="20" />
-      <entry action="$Undo" count="1440" />
+      <entry action="$Redo" count="28" />
+      <entry action="$Undo" count="1721" />
       <entry action="Access static via class reference" count="2" />
       <entry action="Add  value= " count="1" />
       <entry action="Add On Demand Static Import" count="1" />
       <entry action="Add TypeCast" count="2" />
-      <entry action="Android Lint Quick Fixes" count="21" />
+      <entry action="Android Lint Quick Fixes" count="22" />
       <entry action="Android.BuildApk" count="1" />
-      <entry action="Android.RunAndroidAvdManager" count="8" />
+      <entry action="Android.RunAndroidAvdManager" count="12" />
       <entry action="Android.RunAndroidSdkManager" count="1" />
       <entry action="AndroidConnectDebuggerAction" count="3" />
       <entry action="Annotate parameter  inflater  as @NonNull" count="1" />
@@ -28,17 +28,17 @@
       <entry action="ChangeTypeSignature" count="2" />
       <entry action="ChangesView.Refresh" count="11" />
       <entry action="CheckinFiles" count="3" />
-      <entry action="CheckinProject" count="3" />
+      <entry action="CheckinProject" count="5" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="CleanGradleProject" count="5" />
       <entry action="Cleanup code" count="1" />
       <entry action="CloseContent" count="1" />
-      <entry action="CloseProject" count="35" />
+      <entry action="CloseProject" count="37" />
       <entry action="CodeCleanup" count="1" />
       <entry action="Collapse empty tag" count="1" />
       <entry action="CollapseRegion" count="1" />
-      <entry action="CommentByLineComment" count="29" />
-      <entry action="Convert to local" count="11" />
+      <entry action="CommentByLineComment" count="38" />
+      <entry action="Convert to local" count="12" />
       <entry action="CopyAsPlainText" count="1" />
       <entry action="CopyPaths" count="1" />
       <entry action="Create Class from Usage" count="2" />
@@ -46,49 +46,50 @@
       <entry action="Create Test" count="3" />
       <entry action="Create constructor matching super" count="6" />
       <entry action="Debug" count="1" />
-      <entry action="EditorBackSpace" count="16192" />
-      <entry action="EditorChooseLookupItem" count="7090" />
+      <entry action="EditSource" count="1" />
+      <entry action="EditorBackSpace" count="17969" />
+      <entry action="EditorChooseLookupItem" count="7817" />
       <entry action="EditorChooseLookupItemReplace" count="6" />
-      <entry action="EditorCopy" count="316" />
-      <entry action="EditorCut" count="365" />
+      <entry action="EditorCopy" count="438" />
+      <entry action="EditorCut" count="419" />
       <entry action="EditorDeleteLine" count="1" />
-      <entry action="EditorDown" count="6064" />
+      <entry action="EditorDown" count="6375" />
       <entry action="EditorDownWithSelection" count="1" />
-      <entry action="EditorEnter" count="4043" />
+      <entry action="EditorEnter" count="4369" />
       <entry action="EditorIndentSelection" count="3" />
-      <entry action="EditorLeft" count="1293" />
-      <entry action="EditorLeftWithSelection" count="8" />
+      <entry action="EditorLeft" count="1376" />
+      <entry action="EditorLeftWithSelection" count="9" />
       <entry action="EditorLineEnd" count="1" />
       <entry action="EditorLineStart" count="1" />
       <entry action="EditorLineStartWithSelection" count="1" />
-      <entry action="EditorPaste" count="527" />
+      <entry action="EditorPaste" count="622" />
       <entry action="EditorPreviousWord" count="7" />
       <entry action="EditorPreviousWordWithSelection" count="2" />
-      <entry action="EditorRight" count="1823" />
+      <entry action="EditorRight" count="1937" />
       <entry action="EditorRightWithSelection" count="8" />
       <entry action="EditorSplitLine" count="2" />
-      <entry action="EditorStartNewLine" count="39" />
+      <entry action="EditorStartNewLine" count="41" />
       <entry action="EditorTab" count="6" />
       <entry action="EditorUnindentSelection" count="13" />
-      <entry action="EditorUp" count="1174" />
+      <entry action="EditorUp" count="1209" />
       <entry action="EditorUpWithSelection" count="1" />
       <entry action="Extend Class from" count="1" />
-      <entry action="Extract string resource" count="42" />
+      <entry action="Extract string resource" count="46" />
       <entry action="Fix Arguments" count="3" />
       <entry action="Fix modifiers" count="1" />
       <entry action="Fix return type" count="2" />
       <entry action="Flip  _ " count="1" />
-      <entry action="Generate" count="92" />
+      <entry action="Generate" count="94" />
       <entry action="Git.Add" count="1" />
       <entry action="Git.Init" count="1" />
       <entry action="Github.Share" count="5" />
       <entry action="GotoDeclaration" count="2" />
       <entry action="GotoLine" count="1" />
       <entry action="GotoTypeDeclaration" count="1" />
-      <entry action="HideAllWindows" count="7" />
+      <entry action="HideAllWindows" count="8" />
       <entry action="Ignore.AddTemplate" count="2" />
-      <entry action="Implement methods" count="53" />
-      <entry action="Import class" count="8" />
+      <entry action="Implement methods" count="59" />
+      <entry action="Import class" count="9" />
       <entry action="Import static constant  com.example.barakamulungula.weather.MainActivity.ADDRESS_KEY " count="1" />
       <entry action="Import static constant  com.example.barakamulungula.weather.MainActivity.WEATHER_KEY " count="1" />
       <entry action="Import static constant  com.example.barakamulungula.weather.WeatherFragment.googleMapsApiRequest " count="1" />
@@ -97,21 +98,21 @@
       <entry action="Insert new" count="1" />
       <entry action="Invert  if  condition" count="2" />
       <entry action="Kotlin.NewFile" count="1" />
-      <entry action="LocalHistory.ShowHistory" count="4" />
+      <entry action="LocalHistory.ShowHistory" count="7" />
       <entry action="Make Inferred Annotations Explicit" count="1" />
       <entry action="Make Private" count="1" />
-      <entry action="MakeGradleProject" count="41" />
+      <entry action="MakeGradleProject" count="43" />
       <entry action="MoveStatementDown" count="1" />
       <entry action="NewClass" count="52" />
       <entry action="NewDir" count="2" />
       <entry action="NewFile" count="1" />
-      <entry action="NextTemplateVariable" count="162" />
-      <entry action="OptimizeImports" count="26" />
-      <entry action="ParameterInfo" count="8" />
+      <entry action="NextTemplateVariable" count="163" />
+      <entry action="OptimizeImports" count="34" />
+      <entry action="ParameterInfo" count="9" />
       <entry action="Pull up" count="1" />
-      <entry action="RearrangeCode" count="62" />
+      <entry action="RearrangeCode" count="76" />
       <entry action="Refactorings.QuickListPopupAction" count="1" />
-      <entry action="ReformatCode" count="76" />
+      <entry action="ReformatCode" count="90" />
       <entry action="Remove left side of assignment" count="1" />
       <entry action="Remove unnecessary semicolon" count="1" />
       <entry action="Rename element" count="1" />
@@ -120,17 +121,19 @@
       <entry action="Replace with  Objects.requireNonNull(getArguments().getString( TYPE )) " count="1" />
       <entry action="Replace with  getArguments() != null ?_ " count="1" />
       <entry action="RevealIn" count="1" />
-      <entry action="Run" count="593" />
+      <entry action="Run" count="737" />
       <entry action="Run inspection on ..." count="1" />
       <entry action="SafeDelete" count="1" />
       <entry action="SearchEverywhere" count="12" />
-      <entry action="ShowIntentionActions" count="77" />
+      <entry action="ShowIntentionActions" count="81" />
+      <entry action="ShowReformatFileDialog" count="1" />
+      <entry action="Simplify" count="1" />
       <entry action="Start.Use.Vcs" count="1" />
-      <entry action="Stop" count="9" />
+      <entry action="Stop" count="13" />
       <entry action="Suppress_ Add @SuppressLint( StringFormatInvalid ) annotation" count="1" />
       <entry action="Suppress_ Add @SuppressLint( StringFormatMatches ) annotation" count="2" />
       <entry action="Surround with try/catch" count="4" />
-      <entry action="ToggleLineBreakpoint" count="10" />
+      <entry action="ToggleLineBreakpoint" count="11" />
       <entry action="Unwrap" count="1" />
       <entry action="WelcomeScreen.RemoveSelected" count="4" />
       <entry action="template.create.ActivityEmpty Activity" count="1" />
